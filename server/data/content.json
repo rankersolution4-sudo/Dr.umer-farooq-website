@@ -1,0 +1,283 @@
+{
+  "doctor": {
+    "name": "Dr. Muhammad Umer Farooq",
+    "title": "Neurologist",
+    "tagline": "Professional care for brain, nerve and neurological disorders",
+    "photo": "",
+    "qualifications": [],
+    "about": ""
+  },
+  "contact": {
+    "phone": "",
+    "whatsapp": "",
+    "email": "",
+    "social": {
+      "facebook": "",
+      "youtube": "",
+      "instagram": ""
+    }
+  },
+  "specialInterests": [
+    {
+      "id": "headache",
+      "title": "Headache",
+      "icon": "🧠",
+      "text": "Complete assessment and treatment of migraine and other headache disorders."
+    },
+    {
+      "id": "stroke",
+      "title": "Stroke",
+      "icon": "⚡",
+      "text": "Diagnosis, treatment and prevention of stroke."
+    },
+    {
+      "id": "epilepsy",
+      "title": "Epilepsy",
+      "icon": "🌀",
+      "text": "Diagnosis and long-term management of epilepsy and seizures."
+    },
+    {
+      "id": "movement",
+      "title": "Movement Disorders / Parkinson’s",
+      "icon": "🚶",
+      "text": "Care for Parkinson’s Disease, tremor and movement problems."
+    }
+  ],
+  "locations": [
+    {
+      "id": "sialkot",
+      "name": "New Life Hospital, Sialkot",
+      "address": "Main Commissioner Road, Muhammadpura, Sialkot",
+      "schedule": [
+        {
+          "service": "Neurology Consultation",
+          "days": "Monday – Friday",
+          "time": "10:00 AM – 02:00 PM"
+        },
+        {
+          "service": "Neurology Consultation",
+          "days": "Monday – Friday",
+          "time": "07:00 PM – 10:00 PM"
+        },
+        {
+          "service": "Neurology Consultation",
+          "days": "Saturday",
+          "time": "07:00 PM – 10:00 PM"
+        }
+      ],
+      "priorityFee": 2500
+    },
+    {
+      "id": "sheikhupura",
+      "name": "Sheikhupura",
+      "address": "",
+      "schedule": [
+        {
+          "service": "Neurology Consultation",
+          "days": "Sunday",
+          "time": "05:00 PM – 07:00 PM"
+        }
+      ],
+      "priorityFee": 2000
+    },
+    {
+      "id": "hafizabad",
+      "name": "Hafizabad",
+      "address": "",
+      "schedule": [
+        {
+          "service": "NCS / EMG / EEG",
+          "days": "Sunday",
+          "time": "07:00 PM – 10:00 PM"
+        }
+      ],
+      "priorityFee": 2000
+    }
+  ],
+  "diagnosticsFacility": {
+    "name": "NCS / EMG / EEG Facility",
+    "address": "",
+    "schedule": [
+      {
+        "days": "Monday – Friday",
+        "time": "11:00 AM – 02:00 PM"
+      }
+    ],
+    "fees": {
+      "NCS": null,
+      "EMG": null,
+      "EEG": null
+    }
+  },
+  "videoConsultation": {
+    "time": "10:00 PM – 11:00 PM",
+    "fee": 3000
+  },
+  "services": [
+    {
+      "title": "Neurology Consultation",
+      "text": "Complete check-up for brain and nervous system problems."
+    },
+    {
+      "title": "Priority Appointment",
+      "text": "Get a priority appointment through online booking."
+    },
+    {
+      "title": "Online Video Consultation",
+      "text": "Consult the doctor by video call from the comfort of your home."
+    },
+    {
+      "title": "NCS (Nerve Conduction Study)",
+      "text": "A test to measure how well your nerves are working."
+    },
+    {
+      "title": "EMG (Electromyography)",
+      "text": "A test of your muscles and the nerves that control them."
+    },
+    {
+      "title": "EEG (Electroencephalography)",
+      "text": "A test that records the electrical activity of the brain."
+    }
+  ],
+  "conditionGroups": [
+    {
+      "group": "Headache",
+      "items": [
+        {
+          "name": "Migraine",
+          "text": "Often a severe one-sided headache, which may come with nausea or sensitivity to light."
+        },
+        {
+          "name": "Tension-type Headache",
+          "text": "A pressing or tightening pain around the head, often related to stress or fatigue."
+        },
+        {
+          "name": "Cluster Headache",
+          "text": "Repeated attacks of severe pain around one eye."
+        }
+      ]
+    },
+    {
+      "group": "Stroke",
+      "items": [
+        {
+          "name": "Ischemic Stroke",
+          "text": "Stroke caused by a blocked blood supply to the brain."
+        },
+        {
+          "name": "Hemorrhagic Stroke",
+          "text": "Stroke caused by bleeding in the brain."
+        },
+        {
+          "name": "TIA (Mini Stroke)",
+          "text": "Temporary stroke-like symptoms that can be a warning of a major stroke."
+        }
+      ]
+    },
+    {
+      "group": "Epilepsy",
+      "items": [
+        {
+          "name": "Epilepsy / Seizures",
+          "text": "Recurrent seizures caused by abnormal electrical activity in the brain."
+        },
+        {
+          "name": "Febrile Seizures",
+          "text": "Seizures in children that occur during a fever."
+        }
+      ]
+    },
+    {
+      "group": "Movement Disorders",
+      "items": [
+        {
+          "name": "Parkinson’s Disease",
+          "text": "Tremor, stiffness and slowness of movement."
+        },
+        {
+          "name": "Essential Tremor",
+          "text": "Shaking of the hands or other parts of the body."
+        },
+        {
+          "name": "Dystonia",
+          "text": "Involuntary muscle contractions causing abnormal postures."
+        }
+      ]
+    },
+    {
+      "group": "Nerve & Muscle",
+      "items": [
+        {
+          "name": "Peripheral Neuropathy",
+          "text": "Numbness, tingling or burning in the hands and feet."
+        },
+        {
+          "name": "Carpal Tunnel Syndrome",
+          "text": "Nerve compression at the wrist causing hand numbness and pain."
+        },
+        {
+          "name": "Bell’s Palsy",
+          "text": "Sudden weakness on one side of the face."
+        },
+        {
+          "name": "Myasthenia Gravis",
+          "text": "Muscle weakness that gets worse with activity."
+        },
+        {
+          "name": "Sciatica / Radiculopathy",
+          "text": "Nerve pain travelling from the back down to the leg."
+        }
+      ]
+    },
+    {
+      "group": "Other Neurological Conditions",
+      "items": [
+        {
+          "name": "Vertigo / Dizziness",
+          "text": "Feeling dizzy or as if the surroundings are spinning."
+        },
+        {
+          "name": "Dementia / Memory Loss",
+          "text": "Decline in memory and thinking ability."
+        },
+        {
+          "name": "Multiple Sclerosis",
+          "text": "A disease affecting the brain and spinal cord."
+        },
+        {
+          "name": "Sleep Disorders",
+          "text": "Sleep problems related to the nervous system."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I book an appointment?",
+      "a": "Fill in the form on the Appointment page or contact the clinic using the contact details."
+    },
+    {
+      "q": "What is a priority appointment?",
+      "a": "A priority / online booking gives you a preferred appointment slot. Please see the Fees page for charges."
+    },
+    {
+      "q": "When is the online video consultation available?",
+      "a": "Video consultations are held from 10:00 PM to 11:00 PM. The fee is PKR 3,000."
+    },
+    {
+      "q": "When and where are NCS / EMG / EEG tests done?",
+      "a": "At the facility Monday–Friday, 11:00 AM–02:00 PM. In Hafizabad on Sunday, 07:00 PM–10:00 PM. The facility location will be added soon."
+    },
+    {
+      "q": "In which cities does the doctor see patients?",
+      "a": "Sialkot (New Life Hospital), Sheikhupura and Hafizabad. See the Locations page for details."
+    },
+    {
+      "q": "Can fees or timings change?",
+      "a": "Yes, fees and timings may change. Please confirm before your visit."
+    }
+  ],
+  "videos": [],
+  "gallery": [],
+  "posts": []
+}
